@@ -1,3 +1,7 @@
+<br>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?&type=waving&color=auto&height=180&section=header&text==Daeyoung's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
+  </p>
 ### Hi there 👋
 
 <!--
