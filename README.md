@@ -3,6 +3,10 @@
   </p>
 ### Hi there 👋
 
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=7&height=100&section=footer" />
+  </p>
 <!--
 **dae0hwang/dae0hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
