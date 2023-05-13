@@ -1,7 +1,12 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?&type=waving&color=auto&customColorList=7&height=180&section=header&text=Daeyoung's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
-  </p>
-### Hi there 👋
+</p>
+
+<div align='center'>🌼Java-Spring🌼 백엔드 개발자 황대영입니다.</div>
+<br>
+<div align='center'> Email : geungan9@gmail.com</div>
+<div align='center'> Blog : <a href="https://coding-business.tistory.com">코딩과 비지니스</a></div>
+<br>
 
 
 <p align="center">
