@@ -7,6 +7,7 @@
 <div align='center'> Email : geungan9@gmail.com</div>
 <div align='center'> Blog : <a href="https://coding-business.tistory.com">코딩과 비지니스</a></div>
 <br>
+<div align='center' style="color:DimGrey">ckend</div>
 
 
 <p align="center">
