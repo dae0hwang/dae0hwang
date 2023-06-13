@@ -6,17 +6,13 @@
 <br>
 <div align='center'> Email : geungan9@gmail.com</div>
 <div align='center'> Blog : <a href="https://coding-business.tistory.com">코딩과 비지니스</a></div>
-<br>
 
-<p align="center" style="font-size:20px" color:red>
-Backend
-  <img alt= "icon" wide="80" height="80" src ="[https://techstack-generator.vercel.app/ts-icon.svg](https://img.shields.io/badge/spring-#6DB33F?style=flat-square&logo=spring&logoColor=white)">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/spring-#6DB33F?style=plastic&amp;logo=HTML5&amp;logoColor=white">
-  
+
+<h4 align="center">backend</h4>
+<p align="center">
+  <img wide="35" height="35" src="https://github.com/dae0hwang/Ignorant_English_Service/assets/103154389/aa9f01bd-45d6-47f7-ba9d-8ee843e952d1">
+  <img wide="35" height="35" src="https://github.com/dae0hwang/Ignorant_English_Service/assets/103154389/f496908b-1a00-4ed0-bcb9-1f52e01c30b9">
 </p>
-<br>
-<h3 align="center">backend</h3>
 
 
 <p align="center">
