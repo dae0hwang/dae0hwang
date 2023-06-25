@@ -47,8 +47,17 @@
   <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
-  
- 
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"> 
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=ArgoCD&logoColor=white"> 
+  <br>
+  <img src="https://img.shields.io/badge/amazoneks-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white"> 
+  <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> 
+  <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2s&logoColor=white"> 
+  <img src="https://img.shields.io/badge/opensearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white"> 
+  <img src="https://img.shields.io/badge/elasticcache-764ABC?style=for-the-badge&logo=elasticcache&logoColor=white"> 
+  <img src="https://img.shields.io/badge/amazonsqs-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white"> 
 </div>
   
   
