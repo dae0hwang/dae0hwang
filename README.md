@@ -27,16 +27,16 @@
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <br>
-  <img src="https://img.shields.io/badge/jpa-FA6831?style=for-the-badge&logo=jpa&logoColor=white"> 
-  <img src="https://img.shields.io/badge/querydsl-139BB4?style=for-the-badge&logo=querydsl&logoColor=white"> 
-  <br>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
-  <br>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
+  <br>
+  <img src="https://img.shields.io/badge/jpa-FA6831?style=for-the-badge&logo=jpa&logoColor=white"> 
+  <img src="https://img.shields.io/badge/querydsl-139BB4?style=for-the-badge&logo=querydsl&logoColor=white"> 
 </div>
   
 ### Devops Stack 📚
@@ -46,18 +46,18 @@
   <img src="https://img.shields.io/badge/elasticstack-005571?style=for-the-badge&logo=elasticstack&logoColor=white"> 
   <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> 
   <br>
+  <img src="https://img.shields.io/badge/amazoneks-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white"> 
+  <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> 
+  <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> 
+  <img src="https://img.shields.io/badge/opensearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white"> 
+  <img src="https://img.shields.io/badge/elasticcache-764ABC?style=for-the-badge&logo=elasticcache&logoColor=white"> 
+  <img src="https://img.shields.io/badge/amazonsqs-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white"> 
+  <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> 
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&logoColor=white"> 
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"> 
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=ArgoCD&logoColor=white"> 
-  <br>
-  <img src="https://img.shields.io/badge/amazoneks-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white"> 
-  <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> 
-  <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2s&logoColor=white"> 
-  <img src="https://img.shields.io/badge/opensearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white"> 
-  <img src="https://img.shields.io/badge/elasticcache-764ABC?style=for-the-badge&logo=elasticcache&logoColor=white"> 
-  <img src="https://img.shields.io/badge/amazonsqs-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white"> 
 </div>
   
   
