@@ -34,7 +34,6 @@
   <br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
-  <br>
   <img src="https://img.shields.io/badge/jpa-FA6831?style=for-the-badge&logo=jpa&logoColor=white"> 
   <img src="https://img.shields.io/badge/querydsl-139BB4?style=for-the-badge&logo=querydsl&logoColor=white"> 
 </div>
